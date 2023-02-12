@@ -1,0 +1,14 @@
+2023-02-03T05:45:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-includes\widgets\class-wp-widget-text.php on line 571
+
+2023-02-03T05:46:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-content\plugins\elementor\includes\base\skin-base.php on line 4
+
+2023-02-03T05:46:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-content\plugins\elementskit-lite\libs\framework\classes\utils.php on line 4
+
+2023-02-03T05:47:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\CartOrderSummaryBlock.php on line 15
+
+2023-02-03T05:47:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-admin\includes\template.php on line 12
+
+2023-02-03T05:47:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-includes\Requests\Exception.php on line 63
+
+2023-02-03T05:47:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-content\plugins\woocommerce\includes\admin\list-tables\class-wc-admin-list-table-products.php on line 9
+

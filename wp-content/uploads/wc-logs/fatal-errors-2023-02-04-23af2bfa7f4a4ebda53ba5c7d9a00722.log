@@ -1,0 +1,26 @@
+2023-02-04T05:45:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-content\plugins\contact-form-7\includes\swv\rules\maxdate.php on line 46
+
+2023-02-04T05:45:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-content\plugins\woocommerce\includes\tracks\events\class-wc-order-tracking.php on line 41
+
+2023-02-04T08:14:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-includes\class-wpdb.php on line 2187
+
+2023-02-04T08:14:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-shipping-zones-controller.php on line 28
+
+2023-02-04T09:46:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-includes\class-wpdb.php on line 2187
+
+u-icons\includes\library\compat.php on line 7
+
+2023-02-04T09:48:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-content\plugins\ocean-extra\includes\metabox\metabox.php on line 11
+
+2023-02-04T09:49:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-content\plugins\elementor\includes\template-library\manager.php on line 12
+
+2023-02-04T09:56:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-includes\functions.php on line 4541
+
+2023-02-04T10:10:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-content\plugins\elementskit-lite\widgets\back-to-top\back-to-top.php on line 7
+
+2023-02-04T12:13:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-includes\functions.php on line 4541
+
+2023-02-04T12:13:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\TourInAppMarketplace.php on line 77
+
+2023-02-04T12:13:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Marketing.php on line 130
+

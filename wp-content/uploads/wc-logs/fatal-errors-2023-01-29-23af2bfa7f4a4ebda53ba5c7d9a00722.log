@@ -1,0 +1,4 @@
+2023-01-29T05:18:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-content\plugins\ocean-extra\includes\menu-icons\includes\library\icon-selector\includes\types\fas.php on line 7
+
+2023-01-29T06:45:34+00:00 CRITICAL Out of memory (allocated 79691776) (tried to allocate 32768 bytes) in C:\xampp\htdocs\markiting\wp-content\plugins\ocean-extra\includes\metabox\metabox.php on line 371
+

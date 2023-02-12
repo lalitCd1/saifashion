@@ -1,0 +1,4 @@
+2023-01-27T05:18:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-content\plugins\elementor\core\common\modules\connect\admin.php on line 9
+
+2023-01-27T11:10:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\markiting\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 10
+
